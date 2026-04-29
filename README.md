@@ -21,19 +21,9 @@ Each step builds on the last. You can stop at any stage, or jump in mid-flow if 
 
 ## How to use in Claude Cowork
 
-### Option A — Upload the whole folder (recommended)
-
-1. Clone or download this repository
-2. Zip the `skills/` folder
-3. In Claude Cowork, go to **Customize → Skills**
-4. Upload the zip — all 6 skills are installed at once
-
-### Option B — Upload individual skills
-
 1. Open the `skills/` folder
-2. Zip any individual skill directory (e.g., `speckit-specify/`)
-3. Upload that zip to **Customize → Skills** in Claude Cowork
-4. Repeat for whichever skills you want
+2. Upload the .md file **Customize → Skills** in Claude Cowork
+3. Repeat for whichever skills you want
 
 ### Using the skills
 
